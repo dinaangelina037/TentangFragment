@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TentangFragment</string>
+    <string name="title_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="bookmark">Bookmark</string>
+    <string name="akun">Akun</string>
+</resources>
